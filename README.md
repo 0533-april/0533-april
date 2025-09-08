@@ -1,3 +1,10 @@
+
+  
+  <!-- picture 图片 -->
+ 
+ <img align="center" alt="JPG" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 ## 👋Welcome!  I'm April ~
 - 😄Shinra小兵努力学习中
 - 📫联系方式：3382033392@qq.com 欢迎讨论交流

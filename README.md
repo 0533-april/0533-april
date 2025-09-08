@@ -1,10 +1,8 @@
-## 👋Welcome! I'm April ~
-😄Shinra小兵努力学习中
-📫联系方式：3382033392@qq.com 欢迎讨论交流
+## 👋Welcome!  I'm April ~
+- 😄Shinra小兵努力学习中
+- 📫联系方式：3382033392@qq.com 欢迎讨论交流
 <!--
 **0533-april/0533-april** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ##🔭 I’m currently working on something
 - 🌱 I’m currently learning ...

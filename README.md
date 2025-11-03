@@ -2,7 +2,7 @@
   
   <!-- picture 图片 -->
  
- <img align="center" alt="JPG" src="https://github.com/0533-april/0533-april/blob/main/shinra.jpg" width="500" height="320" />
+ <img align="center" alt="JPG" src="https://github.com/0533-april/0533-april/blob/main/leecats.avif" width="500" height="320" />
 
 
 ## 👋Welcome!  I'm April ~

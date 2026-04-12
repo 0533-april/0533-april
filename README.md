@@ -2,12 +2,12 @@
   
   <!-- picture 图片 -->
  
- <img align="center" alt="JPG" src="https://github.com/0533-april/0533-april/blob/main/leecats.avif" width="400" height="640" />
+ <img align="center" alt="JPG" src="https://github.com/0533-april/0533-april/blob/main/soon-e.jpg" width="400" height="640" />
 
 
 ## 👋Welcome!  I'm April ~
 - 🐤努力学习中...
-- 📫联系方式：3382033392@qq.com 欢迎讨论交流
+- 📫联系方式：3382033392@qq.com 欢迎讨论交流🐱🐱
 <!--
 **0533-april/0533-april** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
